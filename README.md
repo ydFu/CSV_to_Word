@@ -23,6 +23,12 @@ pip install python-docx
 ## Example
 An example CSV file and Word document have been included in the repository. The CSV file contains data for three different loan types, and the Word document has placeholders for the loan type, interest rate, and loan amount. Running the Python script with the included CSV file will populate the Word document with the data from the CSV file and save the output to a new Word document.
 
+### input.docx
+![input.docx](https://github.com/ydFu/CSV_to_Word/blob/main/img/input.png)
+
+### output.docx
+![output.docx](https://github.com/ydFu/CSV_to_Word/blob/main/img/output.png)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
