@@ -1,8 +1,6 @@
 import csv
 from docx import Document
 
-from docx import Document
-
 # read the csv file
 with open('data.csv', 'r', encoding='utf-8') as csv_file:
     csv_reader = csv.DictReader(csv_file)
